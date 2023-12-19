@@ -4,8 +4,21 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("Hello World");
+console.log("Hello my friend");
+console.log("number 1");
+console.log("1+1=2")
+console.log("I was entering information in the wrong place");
+console.log("It took me a lot longer than it should have");
+console.log("But figuring it out in the end, that's worth it");
+console.log("Thus quote the Raven."); 
+console.log("Thus quoth the Raven"); ("Nevermore");
+console.log("'Nevermore'");
+console.log('"Nevermore"');
+console.log("I can't figure out how to do it on the same line.")
+console.log("But then again");
+console.log("But then again. And then again, and again.");
+console.log("$10,000 dollars and three birds in a tree.");
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
